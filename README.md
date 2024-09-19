@@ -115,6 +115,4 @@ pip install pandas matplotlib seaborn scikit-learn openpyxl
 - **scikit-learn**: Machine learning (K-Means clustering, Random Forest)
 - **openpyxl**: Excel report generation
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
